@@ -1,5 +1,8 @@
 # 🌍 Fine-Grained Arabic Dialect Classification Platform
 ### End-to-End NLP Graduation Project | Classical ML Stacking vs. AraBERTv02 vs. MARBERTv2
+**👥 Project Team:** **Mohamed Atef Ali** & **Yassmin Reda**
+
+---
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
